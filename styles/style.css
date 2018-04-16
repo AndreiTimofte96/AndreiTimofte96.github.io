@@ -1,6 +1,7 @@
 body{
   
   font-family: 'IBM Plex Sans Condensed', sans-serif;
+  background-color: whitesmoke;
 /*  background: -webkit-linear-gradient(left, #22d686, #24d3d3, #22d686, #24d3d3);
   background: linear-gradient(to right, #22d686, #24d3d3, #22d686, #24d3d3);
   background-size: 600% 100%;
@@ -31,6 +32,12 @@ body{
   100% {
     background-position: 0 0;
   }
+}
+
+.header{
+    position: absolute;
+    top: 20px;
+    right: 20px;
 }
 
 .addedTime{
@@ -194,12 +201,27 @@ button{
      color: lightcoral;   
 }
 
-.total-amount{
+.display-sum{
     position: absolute;
-    right: 150px;
-    top: 120px;
+    left: 10px;
+    top: 10px;
     font-size: 20px;
+    padding: 10px;
 }
+
+.display-sum .started{
+    color: green;
+    text-align: left;
+}
+
+.display-sum .total{
+    margin-top: 10px;
+    border-top: 2px dotted black;
+    padding: 10px;
+    
+}
+
+
 
 input{
     border: 2px solid lightcoral;
