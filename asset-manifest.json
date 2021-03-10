@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AndreiTimofte96/AndreiTimofte96.github.io/static/css/main.3080d087.chunk.css",
-    "main.js": "/AndreiTimofte96/AndreiTimofte96.github.io/static/js/main.ca8b46f5.chunk.js",
-    "main.js.map": "/AndreiTimofte96/AndreiTimofte96.github.io/static/js/main.ca8b46f5.chunk.js.map",
-    "runtime-main.js": "/AndreiTimofte96/AndreiTimofte96.github.io/static/js/runtime-main.7f4499f8.js",
-    "runtime-main.js.map": "/AndreiTimofte96/AndreiTimofte96.github.io/static/js/runtime-main.7f4499f8.js.map",
-    "static/js/2.741d4057.chunk.js": "/AndreiTimofte96/AndreiTimofte96.github.io/static/js/2.741d4057.chunk.js",
-    "static/js/2.741d4057.chunk.js.map": "/AndreiTimofte96/AndreiTimofte96.github.io/static/js/2.741d4057.chunk.js.map",
-    "static/js/3.f4cc1ced.chunk.js": "/AndreiTimofte96/AndreiTimofte96.github.io/static/js/3.f4cc1ced.chunk.js",
-    "static/js/3.f4cc1ced.chunk.js.map": "/AndreiTimofte96/AndreiTimofte96.github.io/static/js/3.f4cc1ced.chunk.js.map",
-    "index.html": "/AndreiTimofte96/AndreiTimofte96.github.io/index.html",
-    "static/css/main.3080d087.chunk.css.map": "/AndreiTimofte96/AndreiTimofte96.github.io/static/css/main.3080d087.chunk.css.map",
-    "static/js/2.741d4057.chunk.js.LICENSE.txt": "/AndreiTimofte96/AndreiTimofte96.github.io/static/js/2.741d4057.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.3080d087.chunk.css",
+    "main.js": "/static/js/main.8bac975a.chunk.js",
+    "main.js.map": "/static/js/main.8bac975a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.de5f3117.js",
+    "runtime-main.js.map": "/static/js/runtime-main.de5f3117.js.map",
+    "static/js/2.82736175.chunk.js": "/static/js/2.82736175.chunk.js",
+    "static/js/2.82736175.chunk.js.map": "/static/js/2.82736175.chunk.js.map",
+    "static/js/3.f4cc1ced.chunk.js": "/static/js/3.f4cc1ced.chunk.js",
+    "static/js/3.f4cc1ced.chunk.js.map": "/static/js/3.f4cc1ced.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3080d087.chunk.css.map": "/static/css/main.3080d087.chunk.css.map",
+    "static/js/2.82736175.chunk.js.LICENSE.txt": "/static/js/2.82736175.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f4499f8.js",
-    "static/js/2.741d4057.chunk.js",
+    "static/js/runtime-main.de5f3117.js",
+    "static/js/2.82736175.chunk.js",
     "static/css/main.3080d087.chunk.css",
-    "static/js/main.ca8b46f5.chunk.js"
+    "static/js/main.8bac975a.chunk.js"
   ]
 }
